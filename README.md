@@ -1,2 +1,3 @@
-# tree-mapper
-Project for mapping trees.
+# Tree mapper
+
+This is a project for mapping trees.
