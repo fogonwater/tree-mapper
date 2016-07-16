@@ -1,0 +1,6 @@
+click==6.6
+decorator==4.0.10
+geocoder==1.15.1
+ratelim==0.1.6
+requests==2.10.0
+six==1.10.0
