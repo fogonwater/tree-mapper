@@ -7,11 +7,11 @@ __pycache__/
 *.so
 
 # Addresses
-addresses.csv
+*addresses.csv
+*geocode.csv
 
 # Distribution / packaging
 .Python
-venv/
 env/
 build/
 develop-eggs/
