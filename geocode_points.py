@@ -14,7 +14,6 @@ def geocode(location):
     g = geocoder.google(location)
     return g.latlng
 
-
 def main():
     rows = read_csv(SRC_ADDRESSES)
     for row in rows:
@@ -22,8 +21,6 @@ def main():
         coors = geocode(loc)
         print('{} : {}'.format(loc, coors))
         time.sleep(1)
-
-
 
 if __name__ == '__main__':
     main()
