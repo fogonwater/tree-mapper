@@ -11,7 +11,10 @@ __pycache__/
 
 # Addresses
 *addresses.csv
+*addresses.csv
 *geocode.csv
+*geocode.json
+*geocode.geojson
 
 # Distribution / packaging
 .Python
