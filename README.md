@@ -1,6 +1,6 @@
 # Tree mapper
 
-This is a project for mapping trees.
+This is a project for mapping trees on Waiheke Island.
 
 ## Installation
 
